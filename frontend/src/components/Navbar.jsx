@@ -61,7 +61,7 @@ const Navbar = () => {
         {/* 👉 New Admin Button */}
        {/* 👉 New Admin Button */}
 <button
-  onClick={() => window.location.href = "http://localhost:5174"} 
+  onClick={() => window.location.href = "https://prescripto-admins.onrender.com"} 
   className='bg-gradient-to-r from-blue-600 to-purple-600 hover:from-purple-600 hover:to-blue-600 
              text-white px-5 py-2 rounded-full text-sm font-medium shadow-md 
              hover:shadow-lg transition-all duration-300'
